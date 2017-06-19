@@ -1,0 +1,468 @@
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="GoldenStateWarriors.com" resolutions="1x" timestamp="1497825498416">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="4123748014" ref="standings:roster:tickets:venue:team:index:animation:team-stats:player-stats:blog"/>
+    <file name="standings.css" crc="3867819968" ref="standings"/>
+    <file name="roster.css" crc="439754706" ref="roster"/>
+    <file name="tickets.css" crc="4206453135" ref="tickets"/>
+    <file name="venue.css" crc="3760982268" ref="venue"/>
+    <file name="team.css" crc="3828635361" ref="team"/>
+    <file name="index.css" crc="83545218" ref="index"/>
+    <file name="animation.css" crc="3871013180" ref="animation"/>
+    <file name="team-stats.css" crc="483707353" ref="team-stats"/>
+    <file name="player-stats.css" crc="4129064402" ref="player-stats"/>
+    <file name="blog.css" crc="23496940" ref="blog"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:roster:team-stats:standings:team:animation:venue:blog:player-stats:tickets"/>
+    <file name="museutils.js" crc="4232573551" ref="index:roster:team-stats:standings:team:animation:venue:blog:player-stats:tickets"/>
+    <file name="whatinput.js" crc="86476730" ref="index:roster:team-stats:standings:team:animation:venue:blog:player-stats:tickets"/>
+    <file name="museconfig.js" crc="3849126041" ref="index:roster:team-stats:standings:team:animation:venue:blog:player-stats:tickets"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:roster:team-stats:standings:team:animation:venue:blog:player-stats:tickets"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="index:roster:team-stats:standings:team:animation:venue:blog:player-stats:tickets"/>
+    <file name="webpro.js" crc="3770351119" ref="index:roster"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="index"/>
+    <file name="touchswipe.js" crc="3912873526" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:roster:team-stats:standings:team:animation:venue:blog:player-stats:tickets"/>
+    <file name="require.js" crc="4234670167" ref="index:roster:team-stats:standings:team:animation:venue:blog:player-stats:tickets"/>
+    <file name="musewpdisclosure.js" crc="347705465" ref="roster"/>
+  </folder>
+  <folder name="images">
+    <file name="77462229.jpg" crc="4126723294" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-gsw-primary-yellow.svg" crc="3874954782" seo="true" ref="index:roster:team-stats:standings:team:animation:venue:blog:player-stats:tickets">
+      <caption webpage="player-stats" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="venue" alt=""/>
+      <caption webpage="animation" alt=""/>
+      <caption webpage="tickets" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="roster" alt=""/>
+      <caption webpage="standings" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="team-stats" alt=""/>
+    </file>
+    <file name="logo-gsw-primary-yellow_poster_.png" crc="374436931" ref="index"/>
+    <file name="nba-logo.png" crc="392849062" seo="true" ref="index:roster:team-stats:standings:team:animation:venue:blog:player-stats:tickets">
+      <caption webpage="player-stats" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="venue" alt=""/>
+      <caption webpage="animation" alt=""/>
+      <caption webpage="tickets" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="roster" alt=""/>
+      <caption webpage="standings" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="team-stats" alt=""/>
+    </file>
+    <file name="logo-sin-2017-stacked-yellow-nopartial.svg" crc="4110957374" seo="true" ref="index:roster:team-stats:standings:team:animation:venue:blog:player-stats:tickets">
+      <caption webpage="player-stats" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="venue" alt=""/>
+      <caption webpage="animation" alt=""/>
+      <caption webpage="tickets" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="roster" alt=""/>
+      <caption webpage="standings" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="team-stats" alt=""/>
+    </file>
+    <file name="logo-sin-2017-stacked-yellow-nopartial_poster_.png" crc="4265566718" ref="index"/>
+    <file name="golden-state-warriors-logo-wallpaper2.jpg" crc="4015211674" seo="true" ref="index:roster:team-stats:standings:team:animation:venue:blog:player-stats:tickets">
+      <caption webpage="player-stats" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="venue" alt=""/>
+      <caption webpage="animation" alt=""/>
+      <caption webpage="tickets" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="roster" alt=""/>
+      <caption webpage="roster" alt=""/>
+      <caption webpage="roster" alt=""/>
+      <caption webpage="standings" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="team-stats" alt=""/>
+    </file>
+    <file name="u206-4.png" crc="3813586574" ref="index:roster:team-stats:standings:team:animation:venue:blog:player-stats:tickets"/>
+    <file name="u974-4.png" crc="489867806" ref="index:roster:team-stats:standings:team:animation:venue:blog:player-stats:tickets"/>
+    <file name="u1001-4.png" crc="259334068" ref="index:roster:team-stats:standings:team:animation:venue:blog:player-stats:tickets"/>
+    <file name="blank.gif" crc="4208392903" ref="index:roster:team-stats:standings:team:animation:venue:blog:player-stats:tickets"/>
+    <file name="u2677.png" crc="395816607" ref="index:roster:team-stats:standings:team:animation:venue:blog:player-stats:tickets"/>
+    <file name="u2677-r.png" crc="3879151541" ref="index:roster:team-stats:standings:team:animation:venue:blog:player-stats:tickets"/>
+    <file name="u2677-a.png" crc="3879151541" ref="index:roster:team-stats:standings:team:animation:venue:blog:player-stats:tickets"/>
+    <file name="u1031-4.png" crc="4225429478" ref="index:roster:team-stats:standings:team:animation:venue:blog:player-stats:tickets"/>
+    <file name="u1059-4.png" crc="125406687" ref="index:roster:team-stats:standings:team:animation:venue:blog:player-stats:tickets"/>
+    <file name="u1085-4.png" crc="4024308170" ref="index:roster:team-stats:standings:team:animation:venue:blog:player-stats:tickets"/>
+    <file name="u2609.png" crc="3842498398" ref="index:roster:team-stats:standings:team:animation:venue:blog:player-stats:tickets"/>
+    <file name="u2609-r.png" crc="280513183" ref="index:roster:team-stats:standings:team:animation:venue:blog:player-stats:tickets"/>
+    <file name="u2609-a.png" crc="280513183" ref="index:roster:team-stats:standings:team:animation:venue:blog:player-stats:tickets"/>
+    <file name="u2640.png" crc="311628284" ref="index:roster:team-stats:standings:team:animation:venue:blog:player-stats:tickets"/>
+    <file name="u2640-r.png" crc="4036327490" ref="index:roster:team-stats:standings:team:animation:venue:blog:player-stats:tickets"/>
+    <file name="u2640-a.png" crc="4036327490" ref="index:roster:team-stats:standings:team:animation:venue:blog:player-stats:tickets"/>
+    <file name="u6121.png" crc="4096489462" ref="index:roster:team-stats:standings:team:animation:venue:blog:player-stats:tickets"/>
+    <file name="u6121-r.png" crc="4087317295" ref="index:roster:team-stats:standings:team:animation:venue:blog:player-stats:tickets"/>
+    <file name="u6121-a.png" crc="4087317295" ref="index:roster:team-stats:standings:team:animation:venue:blog:player-stats:tickets"/>
+    <file name="golden-state-warriors-logo-wallpaper.jpg" crc="3882300264" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="9869340-nba-golden-state-warriors-at-sacramento-kings.jpg" crc="60681821" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gettyimages-521028480_wide-b673ff04207d91528eec36dd8f1834823cabb27a-s900-c85.jpg" crc="4174811435" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6444650-3x2-940x627.jpg" crc="282585094" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="9633086-kevin-durant-stephen-curry-nba-san-antonio-spurs-golden-state-warriors.jpg" crc="212760467" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u1906-4.png" crc="4045838704" ref="index"/>
+    <file name="u4179.png" crc="32865357" ref="roster"/>
+    <file name="u4179-r.png" crc="32865357" ref="roster"/>
+    <file name="u4179-m.png" crc="32865357" ref="roster"/>
+    <file name="u4179-a.png" crc="32865357" ref="roster"/>
+    <file name="pasted image 260x190.png" crc="14883984" seo="true" ref="roster">
+      <caption webpage="roster" alt=""/>
+    </file>
+    <file name="u4189.png" crc="185398250" ref="roster"/>
+    <file name="u4189-r.png" crc="185398250" ref="roster"/>
+    <file name="u4189-m.png" crc="185398250" ref="roster"/>
+    <file name="u4189-a.png" crc="283583806" ref="roster"/>
+    <file name="u4188-15.png" crc="455958667" ref="roster"/>
+    <file name="u4183.png" crc="3992104043" ref="roster"/>
+    <file name="u4183-r.png" crc="3992104043" ref="roster"/>
+    <file name="u4183-m.png" crc="3992104043" ref="roster"/>
+    <file name="u4183-a.png" crc="477465400" ref="roster"/>
+    <file name="u4185-17.png" crc="463857766" ref="roster"/>
+    <file name="u4535.png" crc="424729363" ref="roster"/>
+    <file name="u4535-r.png" crc="424729363" ref="roster"/>
+    <file name="u4535-m.png" crc="424729363" ref="roster"/>
+    <file name="u4535-a.png" crc="424729363" ref="roster"/>
+    <file name="pasted image 260x1902.png" crc="200504895" seo="true" ref="roster">
+      <caption webpage="roster" alt=""/>
+    </file>
+    <file name="u4539.png" crc="185398250" ref="roster"/>
+    <file name="u4539-r.png" crc="185398250" ref="roster"/>
+    <file name="u4539-m.png" crc="185398250" ref="roster"/>
+    <file name="u4539-a.png" crc="283583806" ref="roster"/>
+    <file name="u4538-15.png" crc="4155157443" ref="roster"/>
+    <file name="u4543.png" crc="3992104043" ref="roster"/>
+    <file name="u4543-r.png" crc="3992104043" ref="roster"/>
+    <file name="u4543-m.png" crc="3992104043" ref="roster"/>
+    <file name="u4543-a.png" crc="477465400" ref="roster"/>
+    <file name="u4542-17.png" crc="4101418366" ref="roster"/>
+    <file name="u4596.png" crc="264638974" ref="roster"/>
+    <file name="u4596-r.png" crc="264638974" ref="roster"/>
+    <file name="u4596-m.png" crc="264638974" ref="roster"/>
+    <file name="u4596-a.png" crc="264638974" ref="roster"/>
+    <file name="pasted image 260x1903.png" crc="184877936" seo="true" ref="roster">
+      <caption webpage="roster" alt=""/>
+    </file>
+    <file name="u4600.png" crc="185398250" ref="roster"/>
+    <file name="u4600-r.png" crc="185398250" ref="roster"/>
+    <file name="u4600-m.png" crc="185398250" ref="roster"/>
+    <file name="u4600-a.png" crc="283583806" ref="roster"/>
+    <file name="u4599-15.png" crc="292497455" ref="roster"/>
+    <file name="u4604.png" crc="3992104043" ref="roster"/>
+    <file name="u4604-r.png" crc="3992104043" ref="roster"/>
+    <file name="u4604-m.png" crc="3992104043" ref="roster"/>
+    <file name="u4604-a.png" crc="477465400" ref="roster"/>
+    <file name="u4603-17.png" crc="4168285232" ref="roster"/>
+    <file name="u4741.png" crc="283302376" ref="roster"/>
+    <file name="u4741-r.png" crc="283302376" ref="roster"/>
+    <file name="u4741-m.png" crc="283302376" ref="roster"/>
+    <file name="u4741-a.png" crc="283302376" ref="roster"/>
+    <file name="pasted image 260x1904.png" crc="184707839" seo="true" ref="roster">
+      <caption webpage="roster" alt=""/>
+    </file>
+    <file name="u4745.png" crc="185398250" ref="roster"/>
+    <file name="u4745-r.png" crc="185398250" ref="roster"/>
+    <file name="u4745-m.png" crc="185398250" ref="roster"/>
+    <file name="u4745-a.png" crc="283583806" ref="roster"/>
+    <file name="u4744-15.png" crc="3962936456" ref="roster"/>
+    <file name="u4749.png" crc="3992104043" ref="roster"/>
+    <file name="u4749-r.png" crc="3992104043" ref="roster"/>
+    <file name="u4749-m.png" crc="3992104043" ref="roster"/>
+    <file name="u4749-a.png" crc="477465400" ref="roster"/>
+    <file name="u4748-17.png" crc="3985698604" ref="roster"/>
+    <file name="u4756.png" crc="4173801095" ref="roster"/>
+    <file name="u4756-r.png" crc="4173801095" ref="roster"/>
+    <file name="u4756-m.png" crc="4173801095" ref="roster"/>
+    <file name="u4756-a.png" crc="4173801095" ref="roster"/>
+    <file name="pasted image 260x1905.png" crc="133763236" seo="true" ref="roster">
+      <caption webpage="roster" alt=""/>
+    </file>
+    <file name="u4764.png" crc="185398250" ref="roster"/>
+    <file name="u4764-r.png" crc="185398250" ref="roster"/>
+    <file name="u4764-m.png" crc="185398250" ref="roster"/>
+    <file name="u4764-a.png" crc="283583806" ref="roster"/>
+    <file name="u4763-15.png" crc="4002966477" ref="roster"/>
+    <file name="u4752.png" crc="3992104043" ref="roster"/>
+    <file name="u4752-r.png" crc="3992104043" ref="roster"/>
+    <file name="u4752-m.png" crc="3992104043" ref="roster"/>
+    <file name="u4752-a.png" crc="477465400" ref="roster"/>
+    <file name="u4754-17.png" crc="3896452557" ref="roster"/>
+    <file name="u4779.png" crc="3898004582" ref="roster"/>
+    <file name="u4779-r.png" crc="3898004582" ref="roster"/>
+    <file name="u4779-m.png" crc="3898004582" ref="roster"/>
+    <file name="u4779-a.png" crc="3898004582" ref="roster"/>
+    <file name="pasted image 260x1906.png" crc="161452799" seo="true" ref="roster">
+      <caption webpage="roster" alt=""/>
+    </file>
+    <file name="u4769.png" crc="185398250" ref="roster"/>
+    <file name="u4769-r.png" crc="185398250" ref="roster"/>
+    <file name="u4769-m.png" crc="185398250" ref="roster"/>
+    <file name="u4769-a.png" crc="283583806" ref="roster"/>
+    <file name="u4768-15.png" crc="3984776286" ref="roster"/>
+    <file name="u4771.png" crc="3992104043" ref="roster"/>
+    <file name="u4771-r.png" crc="3992104043" ref="roster"/>
+    <file name="u4771-m.png" crc="3992104043" ref="roster"/>
+    <file name="u4771-a.png" crc="477465400" ref="roster"/>
+    <file name="u4773-17.png" crc="519456878" ref="roster"/>
+    <file name="u4879.png" crc="418243226" ref="roster"/>
+    <file name="u4879-r.png" crc="418243226" ref="roster"/>
+    <file name="u4879-m.png" crc="418243226" ref="roster"/>
+    <file name="u4879-a.png" crc="418243226" ref="roster"/>
+    <file name="pasted image 260x1907.png" crc="4014139070" seo="true" ref="roster">
+      <caption webpage="roster" alt=""/>
+    </file>
+    <file name="u4883.png" crc="185398250" ref="roster"/>
+    <file name="u4883-r.png" crc="185398250" ref="roster"/>
+    <file name="u4883-m.png" crc="185398250" ref="roster"/>
+    <file name="u4883-a.png" crc="283583806" ref="roster"/>
+    <file name="u4882-15.png" crc="266377514" ref="roster"/>
+    <file name="u4887.png" crc="3992104043" ref="roster"/>
+    <file name="u4887-r.png" crc="3992104043" ref="roster"/>
+    <file name="u4887-m.png" crc="3992104043" ref="roster"/>
+    <file name="u4887-a.png" crc="477465400" ref="roster"/>
+    <file name="u4886-17.png" crc="3774896363" ref="roster"/>
+    <file name="u4894.png" crc="293641377" ref="roster"/>
+    <file name="u4894-r.png" crc="293641377" ref="roster"/>
+    <file name="u4894-m.png" crc="293641377" ref="roster"/>
+    <file name="u4894-a.png" crc="293641377" ref="roster"/>
+    <file name="pasted image 260x1908.png" crc="3898114883" seo="true" ref="roster">
+      <caption webpage="roster" alt=""/>
+    </file>
+    <file name="u4902.png" crc="185398250" ref="roster"/>
+    <file name="u4902-r.png" crc="185398250" ref="roster"/>
+    <file name="u4902-m.png" crc="185398250" ref="roster"/>
+    <file name="u4902-a.png" crc="283583806" ref="roster"/>
+    <file name="u4901-15.png" crc="513907557" ref="roster"/>
+    <file name="u4890.png" crc="3992104043" ref="roster"/>
+    <file name="u4890-r.png" crc="3992104043" ref="roster"/>
+    <file name="u4890-m.png" crc="3992104043" ref="roster"/>
+    <file name="u4890-a.png" crc="477465400" ref="roster"/>
+    <file name="u4892-17.png" crc="4067296744" ref="roster"/>
+    <file name="u4917.png" crc="61790814" ref="roster"/>
+    <file name="u4917-r.png" crc="61790814" ref="roster"/>
+    <file name="u4917-m.png" crc="61790814" ref="roster"/>
+    <file name="u4917-a.png" crc="61790814" ref="roster"/>
+    <file name="pasted image 260x1909.png" crc="3955592454" seo="true" ref="roster">
+      <caption webpage="roster" alt=""/>
+    </file>
+    <file name="u4907.png" crc="185398250" ref="roster"/>
+    <file name="u4907-r.png" crc="185398250" ref="roster"/>
+    <file name="u4907-m.png" crc="185398250" ref="roster"/>
+    <file name="u4907-a.png" crc="283583806" ref="roster"/>
+    <file name="u4906-15.png" crc="138878510" ref="roster"/>
+    <file name="u4909.png" crc="3992104043" ref="roster"/>
+    <file name="u4909-r.png" crc="3992104043" ref="roster"/>
+    <file name="u4909-m.png" crc="3992104043" ref="roster"/>
+    <file name="u4909-a.png" crc="477465400" ref="roster"/>
+    <file name="u4911-17.png" crc="395453407" ref="roster"/>
+    <file name="u5166.png" crc="267361445" ref="roster"/>
+    <file name="u5166-r.png" crc="267361445" ref="roster"/>
+    <file name="u5166-m.png" crc="267361445" ref="roster"/>
+    <file name="u5166-a.png" crc="267361445" ref="roster"/>
+    <file name="pasted image 260x19010.png" crc="54006276" seo="true" ref="roster">
+      <caption webpage="roster" alt=""/>
+    </file>
+    <file name="u5170.png" crc="185398250" ref="roster"/>
+    <file name="u5170-r.png" crc="185398250" ref="roster"/>
+    <file name="u5170-m.png" crc="185398250" ref="roster"/>
+    <file name="u5170-a.png" crc="283583806" ref="roster"/>
+    <file name="u5169-15.png" crc="256791564" ref="roster"/>
+    <file name="u5174.png" crc="3992104043" ref="roster"/>
+    <file name="u5174-r.png" crc="3992104043" ref="roster"/>
+    <file name="u5174-m.png" crc="3992104043" ref="roster"/>
+    <file name="u5174-a.png" crc="477465400" ref="roster"/>
+    <file name="u5173-17.png" crc="239456282" ref="roster"/>
+    <file name="u5181.png" crc="197484951" ref="roster"/>
+    <file name="u5181-r.png" crc="197484951" ref="roster"/>
+    <file name="u5181-m.png" crc="197484951" ref="roster"/>
+    <file name="u5181-a.png" crc="197484951" ref="roster"/>
+    <file name="pasted image 260x19011.png" crc="4176053655" seo="true" ref="roster">
+      <caption webpage="roster" alt=""/>
+    </file>
+    <file name="u5189.png" crc="185398250" ref="roster"/>
+    <file name="u5189-r.png" crc="185398250" ref="roster"/>
+    <file name="u5189-m.png" crc="185398250" ref="roster"/>
+    <file name="u5189-a.png" crc="283583806" ref="roster"/>
+    <file name="u5188-15.png" crc="56651512" ref="roster"/>
+    <file name="u5179.png" crc="3992104043" ref="roster"/>
+    <file name="u5179-r.png" crc="3992104043" ref="roster"/>
+    <file name="u5179-m.png" crc="3992104043" ref="roster"/>
+    <file name="u5179-a.png" crc="477465400" ref="roster"/>
+    <file name="u5178-17.png" crc="312487652" ref="roster"/>
+    <file name="u5204.png" crc="4005789438" ref="roster"/>
+    <file name="u5204-r.png" crc="4005789438" ref="roster"/>
+    <file name="u5204-m.png" crc="4005789438" ref="roster"/>
+    <file name="u5204-a.png" crc="4005789438" ref="roster"/>
+    <file name="pasted image 260x19012.png" crc="4204910210" seo="true" ref="roster">
+      <caption webpage="roster" alt=""/>
+    </file>
+    <file name="u5198.png" crc="185398250" ref="roster"/>
+    <file name="u5198-r.png" crc="185398250" ref="roster"/>
+    <file name="u5198-m.png" crc="185398250" ref="roster"/>
+    <file name="u5198-a.png" crc="283583806" ref="roster"/>
+    <file name="u5197-15.png" crc="3990281876" ref="roster"/>
+    <file name="u5194.png" crc="3992104043" ref="roster"/>
+    <file name="u5194-r.png" crc="3992104043" ref="roster"/>
+    <file name="u5194-m.png" crc="3992104043" ref="roster"/>
+    <file name="u5194-a.png" crc="477465400" ref="roster"/>
+    <file name="u5193-17.png" crc="383317130" ref="roster"/>
+    <file name="u5304.png" crc="3952835100" ref="roster"/>
+    <file name="u5304-r.png" crc="3952835100" ref="roster"/>
+    <file name="u5304-m.png" crc="3952835100" ref="roster"/>
+    <file name="u5304-a.png" crc="3952835100" ref="roster"/>
+    <file name="pasted image 260x19013.png" crc="4166503052" seo="true" ref="roster">
+      <caption webpage="roster" alt=""/>
+    </file>
+    <file name="u5308.png" crc="185398250" ref="roster"/>
+    <file name="u5308-r.png" crc="185398250" ref="roster"/>
+    <file name="u5308-m.png" crc="185398250" ref="roster"/>
+    <file name="u5308-a.png" crc="283583806" ref="roster"/>
+    <file name="u5307-15.png" crc="4280061957" ref="roster"/>
+    <file name="u5312.png" crc="3992104043" ref="roster"/>
+    <file name="u5312-r.png" crc="3992104043" ref="roster"/>
+    <file name="u5312-m.png" crc="3992104043" ref="roster"/>
+    <file name="u5312-a.png" crc="477465400" ref="roster"/>
+    <file name="u5311-17.png" crc="4233418893" ref="roster"/>
+    <file name="u5319.png" crc="4019132368" ref="roster"/>
+    <file name="u5319-r.png" crc="4019132368" ref="roster"/>
+    <file name="u5319-m.png" crc="4019132368" ref="roster"/>
+    <file name="u5319-a.png" crc="4019132368" ref="roster"/>
+    <file name="pasted image 260x19014.png" crc="207211549" seo="true" ref="roster">
+      <caption webpage="roster" alt=""/>
+    </file>
+    <file name="u5327.png" crc="185398250" ref="roster"/>
+    <file name="u5327-r.png" crc="185398250" ref="roster"/>
+    <file name="u5327-m.png" crc="185398250" ref="roster"/>
+    <file name="u5327-a.png" crc="283583806" ref="roster"/>
+    <file name="u5326-15.png" crc="47076133" ref="roster"/>
+    <file name="u5317.png" crc="3992104043" ref="roster"/>
+    <file name="u5317-r.png" crc="3992104043" ref="roster"/>
+    <file name="u5317-m.png" crc="3992104043" ref="roster"/>
+    <file name="u5317-a.png" crc="477465400" ref="roster"/>
+    <file name="u5316-17.png" crc="4064656049" ref="roster"/>
+    <file name="u5342.png" crc="449527139" ref="roster"/>
+    <file name="u5342-r.png" crc="449527139" ref="roster"/>
+    <file name="u5342-m.png" crc="449527139" ref="roster"/>
+    <file name="u5342-a.png" crc="449527139" ref="roster"/>
+    <file name="pasted image 260x19015.png" crc="366431634" seo="true" ref="roster">
+      <caption webpage="roster" alt=""/>
+    </file>
+    <file name="u5336.png" crc="185398250" ref="roster"/>
+    <file name="u5336-r.png" crc="185398250" ref="roster"/>
+    <file name="u5336-m.png" crc="185398250" ref="roster"/>
+    <file name="u5336-a.png" crc="283583806" ref="roster"/>
+    <file name="u5335-15.png" crc="4032605550" ref="roster"/>
+    <file name="u5332.png" crc="3992104043" ref="roster"/>
+    <file name="u5332-r.png" crc="3992104043" ref="roster"/>
+    <file name="u5332-m.png" crc="3992104043" ref="roster"/>
+    <file name="u5332-a.png" crc="477465400" ref="roster"/>
+    <file name="u5331-17.png" crc="420286653" ref="roster"/>
+    <file name="pasted image 872x252.jpg" crc="171997669" seo="true" ref="team-stats">
+      <caption webpage="team-stats" alt=""/>
+    </file>
+    <file name="pasted image 907x599.jpg" crc="4140035788" seo="true" ref="standings">
+      <caption webpage="standings" alt=""/>
+    </file>
+    <file name="pasted image 1050x850.jpg" crc="3864698503" seo="true" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="pasted image 600x450.jpg" crc="4213505442" seo="true" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="pasted image 666x800.jpg" crc="350309123" seo="true" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="pasted image 620x400.jpg" crc="217060286" seo="true" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="pasted image 480x360.png" crc="3788188540" seo="true" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="oracle-seating-map-2016.svg" crc="196536510" seo="true" ref="venue">
+      <caption webpage="venue" alt=""/>
+    </file>
+    <file name="oracle-seating-map-2016_poster_.png" crc="4126048304" ref="venue"/>
+    <file name="pasted image 320x182.jpg" crc="4186869130" seo="true" ref="blog">
+      <caption webpage="blog" alt=""/>
+    </file>
+    <file name="pasted image 640x180.jpg" crc="3761744075" seo="true" ref="blog">
+      <caption webpage="blog" alt=""/>
+    </file>
+    <file name="pasted image 400x149.jpg" crc="321051335" seo="true" ref="blog">
+      <caption webpage="blog" alt=""/>
+    </file>
+    <file name="pasted image 320x177.jpg" crc="4290968160" seo="true" ref="blog">
+      <caption webpage="blog" alt=""/>
+    </file>
+    <file name="pasted image 194x138.jpg" crc="3941566440" seo="true" ref="blog">
+      <caption webpage="blog" alt=""/>
+    </file>
+    <file name="pasted image 380x121.jpg" crc="165138157" seo="true" ref="blog">
+      <caption webpage="blog" alt=""/>
+    </file>
+    <file name="pasted image 359x640.jpg" crc="4086248845" seo="true" ref="blog">
+      <caption webpage="blog" alt=""/>
+    </file>
+    <file name="pasted image 640x57.jpg" crc="3965672178" seo="true" ref="blog">
+      <caption webpage="blog" alt=""/>
+    </file>
+    <file name="pasted image 640x473.jpg" crc="4085680589" seo="true" ref="blog">
+      <caption webpage="blog" alt=""/>
+    </file>
+    <file name="pasted image 640x400.jpg" crc="446348110" seo="true" ref="blog">
+      <caption webpage="blog" alt=""/>
+    </file>
+    <file name="pasted image 640x4002.jpg" crc="4004558117" seo="true" ref="blog">
+      <caption webpage="blog" alt=""/>
+    </file>
+    <file name="pasted image 858x639.jpg" crc="269936539" seo="true" ref="player-stats">
+      <caption webpage="player-stats" alt=""/>
+    </file>
+    <file name="pasted image 1280x720.jpg" crc="429893405" seo="true" ref="tickets">
+      <caption webpage="tickets" alt=""/>
+    </file>
+    <file name="pasted image 760x442.jpg" crc="3958220094" seo="true" ref="tickets">
+      <caption webpage="tickets" alt=""/>
+    </file>
+    <file name="pasted image 760x4422.jpg" crc="185913199" seo="true" ref="tickets">
+      <caption webpage="tickets" alt=""/>
+    </file>
+    <file name="u6479-3.png" crc="3894034877" ref="tickets"/>
+    <file name="u6482-4.png" crc="4265261891" ref="tickets"/>
+  </folder>
+  <file name="index.html" crc="4209293243" seo="true" mt="1497819662879" redirect="true"/>
+  <file name="roster.html" crc="3761523088" seo="true" mt="1497825491951" redirect="true"/>
+  <file name="team-stats.html" crc="3950329240" seo="true" mt="1497816631312" redirect="true"/>
+  <file name="standings.html" crc="4153091140" seo="true" mt="1497817628732" redirect="true"/>
+  <file name="team.html" crc="4165407585" seo="true" mt="1497819089145" redirect="true"/>
+  <file name="animation.html" crc="197848762" seo="true" mt="1497825414402" redirect="true"/>
+  <file name="venue.html" crc="466778047" seo="true" mt="1497819890051" redirect="true"/>
+  <file name="blog.html" crc="3882323984" seo="true" mt="1497816631312" redirect="true"/>
+  <file name="player-stats.html" crc="397612713" seo="true" mt="1497816631312" redirect="true"/>
+  <file name="tickets.html" crc="122813302" seo="true" mt="1497816856589" redirect="true"/>
+</manifest>
